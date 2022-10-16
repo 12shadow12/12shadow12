@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @12shadow12
 - 👀 I’m interested in making AI bot, frontend and backend development, databases, gaming.
-- 🌱 I’m currently learning javascript, python, php
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-12shadow12/12shadow12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![unknown (2)](https://user-images.githubusercontent.com/92476689/196064633-d8710b21-bb59-4c93-a28c-c874504cf4c2.png)
