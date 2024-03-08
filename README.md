@@ -5,9 +5,9 @@
   </p>
   <div align="center">
     <samp>
-      language:
+      languages:
       <a href="https://www.python.org/">Python</a>,
-      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">java</a>
+      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">Java</a>
       <br>
       database:
       <a href="https://www.mongodb.com/">mongodb</a>,
