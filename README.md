@@ -7,7 +7,8 @@
     <samp>
       languages:
       <a href="https://www.python.org/">Python</a>,
-      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">Java</a>
+      <a href="https://www.oracle.com/java/technologies/java-se-glance.html">Java</a>,
+       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Javascript</a>
       <br>
       database:
       <a href="https://www.mongodb.com/">mongodb</a>,
